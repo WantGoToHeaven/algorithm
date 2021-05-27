@@ -11,4 +11,4 @@
 #### 2021.05.27
 - [0053.最大子序和](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0053.最大子序和.md)
 - [0001.两数之和](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0001.两数之和.md)
-- [0015.三数之和](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0015.三数之和.mdd)
+- [0015.三数之和](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0015.三数之和.md)
