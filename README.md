@@ -26,3 +26,4 @@
 #### 2021.06.01
 
 - [0008.字符串转换整数](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0008.字符串转换整数(atoi).md>)
+- [0026.删除有序数组中的重复项](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0026.删除有序数组中的重复项.md>)
