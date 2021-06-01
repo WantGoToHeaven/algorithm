@@ -17,7 +17,7 @@
 #### 2021.05.28
 
 - [0005.最长回文子串](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0005.最长回文子串.md)
-- [0014.最长公共前缀](https://github.com/WantGoToHeaven/algorithm/blob/main/src/14.最长公共前缀.md)
+- [0014.最长公共前缀](https://github.com/WantGoToHeaven/algorithm/blob/main/src/14.%20最长公共前缀.md)
 
 #### 2021.05.30
 
