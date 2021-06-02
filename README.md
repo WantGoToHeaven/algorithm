@@ -27,3 +27,7 @@
 
 - [0008.字符串转换整数](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0008.字符串转换整数(atoi).md>)
 - [0026.删除有序数组中的重复项](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0026.删除有序数组中的重复项.md>)
+
+#### 2021.06.02
+- [0035.搜索插入位置](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0035.搜索插入位置.md>)
+- [0058.最后一个单词的长度](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0058.最后一个单词的长度.md>)
