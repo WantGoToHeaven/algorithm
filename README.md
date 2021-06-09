@@ -31,3 +31,6 @@
 #### 2021.06.02
 - [0035.搜索插入位置](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0035.搜索插入位置.md>)
 - [0058.最后一个单词的长度](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0058.最后一个单词的长度.md>)
+
+#### 2021.06.09
+- [0088.合并两个有序数组](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0088.合并两个有序数组.md>)
