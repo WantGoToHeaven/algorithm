@@ -34,3 +34,4 @@
 
 #### 2021.06.09
 - [0088.合并两个有序数组](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0088.合并两个有序数组.md>)
+- [0169.多数元素](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0169.多数元素.md>)
