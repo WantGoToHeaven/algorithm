@@ -26,12 +26,19 @@
 #### 2021.06.01
 
 - [0008.字符串转换整数](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0008.字符串转换整数(atoi).md>)
-- [0026.删除有序数组中的重复项](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0026.删除有序数组中的重复项.md>)
+- [0026.删除有序数组中的重复项](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0026.删除有序数组中的重复项.md)
 
 #### 2021.06.02
-- [0035.搜索插入位置](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0035.搜索插入位置.md>)
-- [0058.最后一个单词的长度](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0058.最后一个单词的长度.md>)
+
+- [0035.搜索插入位置](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0035.搜索插入位置.md)
+- [0058.最后一个单词的长度](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0058.最后一个单词的长度.md)
 
 #### 2021.06.09
-- [0088.合并两个有序数组](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0088.合并两个有序数组.md>)
-- [0169.多数元素](<https://github.com/WantGoToHeaven/algorithm/blob/main/src/0169.多数元素.md>)
+
+- [0088.合并两个有序数组](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0088.合并两个有序数组.md)
+- [0169.多数元素](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0169.多数元素.md)
+
+#### 2021.06.09
+
+- [0016.最接近的三数之和](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0016.最接近的三数之和.md)
+- [0020.有效的括号.md](https://github.com/WantGoToHeaven/algorithm/blob/main/src/0020.有效的括号.md)
